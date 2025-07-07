@@ -1,0 +1,15 @@
+<!--ex2-9-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>이미지 속성 사용하기</title>
+</head>
+<body>
+  1 <img src="images/milk.png"></br>
+  2 <img src="images/milk.png" width="23"></br>
+  3 <img src="images/milk.png" height="150"></br>
+  4 <img src="images/milk1.png"></br>
+  5 <img src="images/cola1.jpg" alt="콜라"></br>
+</body>
+</html>
