@@ -1,4 +1,4 @@
-#script.js
+<!--script.js-->
 let box = document.getElementById("box");
 let position = 0;
 
