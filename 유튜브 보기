@@ -11,6 +11,6 @@
   <h4>버거 패티 만들 동안 들을 노래</h4>
   <audio src="../media/morning_vow.mp3"controls loop></audio>
   <h4>유튜브 동영상 연결</h4>
-  <ifram width="300" height="205" frameboder="0" sec="https://youtube.com/shorts/1bSrGLXTXx0?si=Xut3znFlc15hrcG1"></ifram>
+  <iframe width="300" height="205" frameborder="0" src="https://youtube.com/shorts/1bSrGLXTXx0?si=Xut3znFlc15hrcG1"></iframe>
 </body>
 </html>
