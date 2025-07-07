@@ -1,0 +1,16 @@
+<!--ex3-3-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>논리 영역 만들기</title>
+</head>
+<body>
+  <h3>미어캑(meerkat)<img src="images/meerkat.jpg" height="200"></h3>
+  <p>척삭 동물문 퍼유강 고양이아목 몽구스에 속하는 육식성 포유류</p>
+  <div style="background-color: #a8dadc">
+    <p>이름은 산크리트어로 원숭이를 뜻하는 말인 'Markata'에서 유래.</p>
+    <p>중세 유럽 탐험가들이 <span style="color: red">네덜란드어 미어캣</span>으로 바꾸어 사용</p>
+  </div>
+  </body>
+</html>
