@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>외부 css 파일 사용하기</title>
+  <link rel="stylesheet" href="style2.css">
+</head>
+<style>
+  h2{
+    color: purple;
+    background-color: #def;
+  }
+  p{
+    color: white;
+    width: 300px;
+  }
+</style>
+<body>
+  <h2 style="color: green">바나나</h2>
+    <p><img src="images/banana.png" width="50"/></p>
+    <p>노란색의 아열대 과일</p>
+    <p><span>노란색</span>지방이 없어 체중 조절에 좋음</p>
+    <p>식이섬유가 풍부해 주식 대용으로 적당</p>
+</body>
+</html>
